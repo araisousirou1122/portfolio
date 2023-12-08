@@ -1,4 +1,3 @@
-theme.:jeckll-theme-slate
 # portfolio
 
 
