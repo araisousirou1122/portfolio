@@ -3,7 +3,7 @@
 
 
 - Zetton                                            
-- 連絡先 X [090-2222-6720]() / Email [araisoushirou1122@gmail.com]()
+- 連絡先 X []() / Email [araisoushirou1122@gmail.com]()
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2025年卒業予定
 
 ## 資格
